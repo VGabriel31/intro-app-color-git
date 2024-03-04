@@ -1,3 +1,5 @@
+
+/*VGGH*/
 document.addEventListener("DOMContentLoaded", function() {
     const colorPicker = document.getElementById('colorPicker');
     const redInput = document.getElementById('redInput');
